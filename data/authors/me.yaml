@@ -14,11 +14,11 @@ postnominals:
 status:
 role: "PhD Candidate,<br>Intelligent Systems"
 bio: |
-    I'm a PhD student in Intelligent Systems at the University of Pittsburgh.
+    I'm a PhD candidate in Intelligent Systems at the University of Pittsburgh.
     My research sits at the intersection of fairness, interpretability,
     and causal reasoning in machine learning. I focus on bias mitigation in clinical
-    decision-making working with models that are not just accurate,
-    but also transparent in high impact applications such as healthcare.
+    decision-making, working with models that are not just accurate,    
+    but also transparent in high-impact applications such as healthcare.
 
 affiliations:
   - name: University of Pittsburgh
