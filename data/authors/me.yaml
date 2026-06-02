@@ -111,10 +111,15 @@ education:
 #     label: Fluent
 
 awards:
+  - title: 2nd Place for Best Student Paper
+    awarder: AMIA Informatics Summit
+    date: "2026-05-21"
+    summary: Awarded the 2nd best student paper at AMIA
+    icon: hero/trophy
   - title: Nomination for Best Student Paper
     awarder: AMIA Informatics Summit
     date: "2024-03-13"
-    summary: Nomitated for innovative application of fairness in healthcare.
+    summary: Nominated for innovative application of fairness in healthcare.
     icon: hero/trophy
   - title: Nomination for Best Poster
     awarder: AMIA Annual Symposium
