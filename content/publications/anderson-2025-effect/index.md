@@ -17,7 +17,7 @@ author_notes: []
 date: '2025-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2026-04-18T20:09:43.522038Z'
+publishDate: '2026-06-01T20:09:43.522038Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -25,15 +25,15 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*arXiv preprint arXiv:2512.02265*'
+publication: '*AMIA Summits on Translational Science Proceedings*'
 publication_short: ''
 
 doi: ''
 
-abstract: ''
+abstract: 'Trustworthy machine learning in healthcare requires strong predictive performance, fairness, and explanations. While it is known that improving fairness can affect predictive performance, little is known about how fairness improvements influence explainability, an essential ingredient for clinical trust. Clinicians may hesitate to rely on a model whose explanations shift after fairness constraints are applied. In this study, we examine how enhancing fairness through bias mitigation techniques reshapes Shapley-based feature rankings. We quantify changes in feature importance rankings after applying fairness constraints across three datasets: pediatric urinary tract infection risk, direct anticoagulant bleeding risk, and recidivism risk. We also evaluate multiple model classes on the stability of Shapley-based rankings. We find that increasing model fairness across racial subgroups can significantly alter feature importance rankings, sometimes in different ways across groups. These results highlight the need to jointly consider accuracy, fairness, and explainability in model assessment rather than in isolation.'
 
 # Summary. An optional shortened abstract.
-summary: ''
+summary: 'Trustworthy machine learning in healthcare requires strong predictive performance, fairness, and explanations. While it is known that improving fairness can affect predictive performance, little is known about how fairness improvements influence explainability, an essential ingredient for clinical trust. Clinicians may hesitate to rely on a model whose explanations shift after fairness constraints are applied. In this study, we examine how enhancing fairness through bias mitigation techniques reshapes Shapley-based feature rankings. We quantify changes in feature importance rankings after applying fairness constraints across three datasets: pediatric urinary tract infection risk, direct anticoagulant bleeding risk, and recidivism risk. We also evaluate multiple model classes on the stability of Shapley-based rankings. We find that increasing model fairness across racial subgroups can significantly alter feature importance rankings, sometimes in different ways across groups. These results highlight the need to jointly consider accuracy, fairness, and explainability in model assessment rather than in isolation.'
 
 tags: []
 
@@ -41,7 +41,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC13274391/'
 url_code: ''
 url_dataset: ''
 url_poster: ''
