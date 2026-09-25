@@ -29,7 +29,7 @@ publication_types:
 publication: '*Research Square*'
 publication_short: ''
 
-doi: 10.21203/rs.3.rs-9644545/v1
+doi: 10.21203/rs.3.rs-9644545/
 
 abstract: 'Fairness is an important concern in statistical models, especially in clinical prediction models. Most fairness methods focus on model predictions, aiming for parity in model performance across relevant groups. However, this approach overlooks the broader implications of fairness when these models are used in clinical decision-making. We argue that prediction-based fairness frameworks, while valuable, are inherently limited when patient outcomes are equally, if not more, important concerning fairness. We analyze a deployed clinical prediction model, UTICalc, which was revised to improve fairness across racial groups and showed improved performance on a prediction-based fairness metric, namely, equal opportunity (equal true positive rate). We developed a decision-theoretic framework to assess the fairness of UTICalc by integrating patient outcome utilities with model predictions. To this end, we constructed a decision tree to model the clinical decision-making process for assessing and treating urinary tract infection (UTI) in young children, for which UTICalc was developed. Our results show that the revised UTICalc model did not improve an outcome-based fairness metric, namely, expected utility parity. This suggests that prediction-based and outcome-based fairness may diverge, with implications for clinical settings. Furthermore, we suggest that fairness in clinical prediction models should be evaluated based on patient outcomes as well as model predictions.'
 
@@ -42,7 +42,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: 'https://www.researchsquare.com/article/rs-9644545/v1.pdf?c=1778513566000'
+url_pdf: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC13174778/'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -71,5 +71,5 @@ image:
 projects: []
 links:
 - name: URL
-  url: https://doi.org/10.21203/rs.3.rs-9644545/v1
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13174778/
 ---
